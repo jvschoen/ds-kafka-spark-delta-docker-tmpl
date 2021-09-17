@@ -1,0 +1,18 @@
+.ipynb_checkpoints/
+.vscode/
+venv/
+.cache/
+.ipython/
+.ivy2/
+.jupyter/
+.local/
+.idea/
+.bash_history
+.npm/
+.yarn/
+spark-warehouse/
+
+# These are backup files for archive purposes locally
+*.bak
+
+zArchive/
